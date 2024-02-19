@@ -1,0 +1,18 @@
+body {
+    font-family: sans-serif;
+}
+ 
+nav a {
+    text-decoration: none;
+    font-size: 24px;
+    color: rgb(173, 55, 55);
+
+}
+ 
+.plaatje img{
+    width: 90vw;
+}
+ 
+
+
+
